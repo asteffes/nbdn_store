@@ -78,6 +78,8 @@
     <Compile Include="utility\CommonPipelineActions.cs" />
     <Compile Include="utility\ObjectMother.cs" />
     <Compile Include="web\DepartmentMapperSpecs.cs" />
+    <Compile Include="web\DependencyFactoriesSpecs.cs" />
+    <Compile Include="web\FactoryRegistry.cs" />
     <Compile Include="web\FrontControllerSpecs.cs" />
     <Compile Include="web\InputKeySpecs.cs" />
     <Compile Include="web\InputModelMapperSpecs.cs" />
